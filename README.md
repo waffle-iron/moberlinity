@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/juanecabellob/moberlinity.png?label=ready&title=Ready)](https://waffle.io/juanecabellob/moberlinity?utm_source=badge)
 # Moberlinity
 
 Moberlinity simulates a carsharing environment in a city. Random places, citizens and vehicles scattered around an area of a city are generated and in the course of two hours of a given time of a day a probable activity can be observed. 
